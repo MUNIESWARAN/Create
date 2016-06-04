@@ -13,7 +13,7 @@ int result1=addValues(s1,s2);
 System.out.println("Float of Values " + result1);
 
 }
-
+//this is a sample comment
 private static int addValues(int i1,int i2)
 {
 return i1 + i2;
